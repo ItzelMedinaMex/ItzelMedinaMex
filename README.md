@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ItzelMedinaMex/ItzelMedinaMex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi I'm Itzel
+
+```javascript
+const thai = {
+  pronouns: "She" | "is",
+  code: [Javascript, HTML, CSS, Java],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Spanish, English, French",
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
