@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ```javascript
 const thai = {
-  pronouns: "She" | "is",
+  pronouns: "She" | "her",
   code: [Javascript, HTML, CSS, Java],
   techCommunities: {
                         coorganizer: "AfroPython",
