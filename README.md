@@ -28,6 +28,4 @@ const thai = {
                         coorganizer: "AfroPython",
                         speaker: "Spanish, English, French",
                       },
-
-
 }
