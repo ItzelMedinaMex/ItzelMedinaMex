@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+**challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
 -->
 ## Hi I'm Itzel
 
@@ -25,7 +29,5 @@ const thai = {
                         speaker: "Spanish, English, French",
                       },
 
-<!--
-**challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
--->
+
 }
