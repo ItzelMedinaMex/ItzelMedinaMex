@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 ```javascript
 const thai = {
   pronouns: "She" | "her",
-  code: [Javascript, HTML, CSS, Java],
+  code: [Javascript, HTML, CSS, Java, C/C++],
   techCommunities: {
-                        coorganizer: "AfroPython",
                         speaker: "Spanish, English, French",
                       },
 }
