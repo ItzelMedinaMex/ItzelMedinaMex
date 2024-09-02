@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```javascript
 const thai = {
   pronouns: "She" | "her",
-  code: [Javascript, HTML, CSS, Java, C/C++],
+  code: [Javascript, HTML, CSS, Java, JavaScript, C/C++],
   techCommunities: {
                         speaker: "Spanish, English, French",
                       },
